@@ -1,5 +1,4 @@
 import sys
-!pip install colorama # install required package colorama
 from colorama import Fore, Style, init
 
 # Initialize colorama
